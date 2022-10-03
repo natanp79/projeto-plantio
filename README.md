@@ -1,3 +1,3 @@
-# Leitor QR Code
-App criado apenas para fins de prática na no framework
+# Parte inicial de um projeto
+Fase extremamente inicial de um projeto que visa implementação de tecnologia, com redução de gastos, no agronegócio
 
